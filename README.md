@@ -6,4 +6,4 @@ It involved analysing a large dataset from Spotify, trying to predict the popula
 
 This project was largely about exploring machine learning, data processing, and data analysis with the idea to apply our results to a hypothetical new artist and project their popularity.
 
-See Associate Project Brief for more detailed description of the tasks we had to complete, Project Report for the a report of my results, and OSGD Presentation for a presentation on my findings.
+See Associate Project Brief for a more detailed description of the tasks we had to complete, Project Report for a summary of my results, and OSGD Presentation for a presentation on my method and findings.
