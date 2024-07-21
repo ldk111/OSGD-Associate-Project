@@ -1,4 +1,4 @@
-# OSGD-Associate-Project
+# OSGD Associate-Project
 
 This repository contains my work for the OSGD Associate Project.
 
